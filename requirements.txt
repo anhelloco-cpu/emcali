@@ -5,3 +5,4 @@ numpy-financial
 plotly
 fpdf
 openpyxl
+matplotlib
